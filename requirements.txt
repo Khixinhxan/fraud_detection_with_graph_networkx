@@ -1,0 +1,2 @@
+networkx==2.8.7
+notebook==6.4.12
